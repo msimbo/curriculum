@@ -23,7 +23,7 @@ We start with the basics and learn about how base platform — the internet. We 
 - Markdown
 - Git / Git Workflow
 
-# Week 2: HTML5 & CSS3
+# Week 2: HTML & CSS
 
 - Basic HTML Elements
 - Metadata HTML Elements
