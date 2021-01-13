@@ -3,20 +3,19 @@
 
 |Phase 1   |Phase 2   |Phase 3   | Phase 4  |
 |---|---|---|---|
-|  [Week 1](week-1) |[Week 8](week-8)   |[Week 11](week-11)   |[Week 16+](week-16)   |
-|  [Week 1](week-1) | [Week 9](week-9)  |[Week 12](week-12)   |   |
-|  [Week 2](week-2) | [Week 10](week-10)  |[Week 13](week-13)   |   |
-|  [Week 3](week-3) |   | [Week 14](week-14)  |   |
-|  [Week 4](week-4) |   | [Week 15](week-15)  |   |
-|  [Week 5](week-5) |   |   |   |
-|  [Week 6](week-6) |   |   |   |
-|  [Week 7](week-7) |   |   |   |
+|  [Week 1](#week-1-the-bare-basics) |[Week 8](#week-8-computer-science-i)   |[Week 11](#week-11-react-i)   |[Week 16+](#week-16)   |
+|  [Week 2](#week-2-html5--css3) | [Week 9](#week-9-computer-science-ii)  |[Week 12](#week-12-react-ii)   |   |
+|  [Week 3](#week-3-uxinteraction--design-systems) | [Week 10](#week-10-computer-science-iii)  |[Week 13](#week-13-gatsby)   |   |
+|  [Week 4](#week-4-web-accessibility) |   | [Week 14](#week-14-graphql)  |   |
+|  [Week 5](#week-5-smacss) |   | [Week 15](#week-15-jest--cypress)  |   |
+|  [Week 6](#week-6-javascript) |   |   |   |
+|  [Week 7](#week-7-apis) |   |   |   |
 
 
 <h1 align="center"> == PHASE 1 - The Basics == </h1>
 We start with the basics and learn about how base platform — the internet. We then get into HTML and CSS to start the web development process. Along the way, we learn about user experience and how to think about the users first in your development. We end this phase by adding interactivity with JavaScript and using remote data with APIs.
 
-# [Week 1: The Bare Basics](week-1)
+# Week 1: The Bare Basics
 
 - The Internet
 - Command Line
@@ -24,7 +23,7 @@ We start with the basics and learn about how base platform — the internet. We 
 - Markdown
 - Git / Git Workflow
 
-# [Week 2: HTML5 & CSS3](week-2)
+# Week 2: HTML5 & CSS3
 
 - Basic HTML Elements
 - Metadata HTML Elements
@@ -41,7 +40,7 @@ We start with the basics and learn about how base platform — the internet. We 
 - Flexbox
 - CSS Grid
 
-# [Week 3: UX/Interaction & Design Systems](week-3)
+# Week 3: UX/Interaction & Design Systems
 
 - Design Psychology (User Focused Design)
 - Color Theory
@@ -55,7 +54,7 @@ We start with the basics and learn about how base platform — the internet. We 
 - Interaction Design Methodologies: _Goal Driven Design_, _Usability_, _The Five Dimensions_, _Cognitive Psychology_, and _Human Interface Guidelines_
 - Design Strategy
 
-# [Week 4: Web Accessibility](week-4)
+# Week 4: Web Accessibility
 - Keyboard Shortcuts
 - Focus Based Elements
 - Focus Control
@@ -64,13 +63,13 @@ We start with the basics and learn about how base platform — the internet. We 
 - Color Ratio
 - Live Regions
 
-# [Week 5: SMACSS](week-5)
+# Week 5: SMACSS
 - Categorization
 - Naming Conventions
 - State-Based Design
 - Tailwind CSS
 
-# [Week 6: JavaScript](week-6) 
+# Week 6: JavaScript 
 
 - ES3 - purpose and how to use
     - Primitives
@@ -111,7 +110,7 @@ We start with the basics and learn about how base platform — the internet. We 
 - JSON
 - Scope / Closures / Hoisting
 
-# [Week 7: APIs](week-7)
+# Week 7: APIs
 
 - DOM manipulation - Part 2
 - Fetch
@@ -128,7 +127,7 @@ We start with the basics and learn about how base platform — the internet. We 
 <h1 align="center"> == PHASE 2 - Computer Science with Javascript == </h1>
 In phase 2 we learn the basics of computer science which allows us to think properly about complex web applications. We learn about efficiencies, effectiveness and crafting solutions with proven methodologies. We build on the pieces from the previous block to solidify these concepts with JavaScript.
 
-# [Week 8: Computer Science I](week-8)
+# Week 8: Computer Science I
 - Thinking like a programmer
 - Big O
   - The measurement for algorithms
@@ -137,13 +136,13 @@ In phase 2 we learn the basics of computer science which allows us to think prop
 - Recursion
   - Repeating with efficiency
 
-# [Week 9: Computer Science II](week-9)
+# Week 9: Computer Science II
 - Object-Oriented Programming
   - Classes and Objects
 - Functional Programming
   - Thinking with functions
 
-# [Week 10: Computer Science III](week-10)
+# Week 10: Computer Science III
 - Intro to algorithms
   - Solving problems with code
 - Data Structures
@@ -156,7 +155,7 @@ In phase 2 we learn the basics of computer science which allows us to think prop
 <h1 align="center"> == PHASE 3 - React & JAMstack  == </h1>
 In Phase 3, we introduce Javascript frameworks such as Gatsby that's built on React. These gives you more skills to build complex, professional application faster with industry technology.
 
-# [Week 11: React I](week-11)
+# Week 11: React I
 
 - React Basics
 - Tooling
@@ -165,20 +164,20 @@ In Phase 3, we introduce Javascript frameworks such as Gatsby that's built on Re
 - Effects
 - React Dev Tools
 
-# [Week 12: React II](week-12)
+# Week 12: React II
 - Async & Routing
 - Class Components
 - Error Boundaries
 - Context
 - Portals
 
-# [Week 13: Gatsby](week-13)
+# Week 13: Gatsby
 
 - Set Up
 - MDX
 - Outside Data
 
-# [Week 14: GraphQL](week-14)
+# Week 14: GraphQL
 
 - Schemas
 - Definition Language
@@ -189,7 +188,7 @@ In Phase 3, we introduce Javascript frameworks such as Gatsby that's built on Re
 - Interfaces
 - Auth
 
-# [Week 15: Jest & Cypress](week-15)
+# Week 15: Jest & Cypress
 
 - Introduction
 - Layout
@@ -205,7 +204,7 @@ In Phase 3, we introduce Javascript frameworks such as Gatsby that's built on Re
 
 We work with your to start your transition into the job market. Through the resources at ULEM and our network, we make sure you're in the best position before your first interview.
 
-# [Week 16+](week-16)
+# Week 16+
 - Effective Software Resume writing
 - Github Edits
 - Codepen at least once a week
