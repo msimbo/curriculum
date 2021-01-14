@@ -12,7 +12,7 @@
 |  [Week 7](#week-7-apis) |   |   |   |
 
 
-<h1 align="center"> == PHASE 1 - The Basics == </h1>
+<h1 align="center"> Epic 1: The Basics</h1>
 We start with the basics and learn about how base platform — the internet. We then get into HTML and CSS to start the web development process. Along the way, we learn about user experience and how to think about the users first in your development. We end this phase by adding interactivity with JavaScript and using remote data with APIs.
 
 # Sprint 1
@@ -128,7 +128,7 @@ We start with the basics and learn about how base platform — the internet. We 
     - Docker
 
 
-<h1 align="center"> == PHASE 2 - Computer Science with Javascript == </h1>
+<h1 align="center"> Epic 2: Computer Science with Javascript </h1>
 In phase 2 we learn the basics of computer science which allows us to think properly about complex web applications. We learn about efficiencies, effectiveness and crafting solutions with proven methodologies. We build on the pieces from the previous block to solidify these concepts with JavaScript.
 
 ## Week 8: Computer Science I
@@ -158,7 +158,7 @@ In phase 2 we learn the basics of computer science which allows us to think prop
   - Map  
 - Algorithm Review
 
-<h1 align="center"> == PHASE 3 - React & JAMstack  == </h1>
+<h1 align="center">Epic 3:  React & JAMstack </h1>
 In Phase 3, we introduce Javascript frameworks such as Gatsby that's built on React. These gives you more skills to build complex, professional application faster with industry technology.
 
 # Sprint 6
@@ -209,7 +209,7 @@ In Phase 3, we introduce Javascript frameworks such as Gatsby that's built on Re
 - Automocking
 - Coverage report
 
-<h1 align="center"> == PHASE 4 - Official Code for Community Member: Interview Prep == </h1>
+<h1 align="center"> Epic 4: Official Code for Community Member: Interview Prep == </h1>
 
 We work with your to start your transition into the job market. Through the resources at ULEM and our network, we make sure you're in the best position before your first interview.
 
