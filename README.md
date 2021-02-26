@@ -5,7 +5,7 @@
 
 - **IDE**: [WebStorm](https://www.jetbrains.com/webstorm/)
 - **Text Editor**: [VSCode](https://code.visualstudio.com/) or [Sublime](sublimetext.com/)
-- **Team Collaboration**: [JIRA](https://www.atlassian.com/software/jira)
+- **Team Collaboration**: [JIRA](https://www.atlassian.com/software/jira) and [ZenHub](https://www.zenhub.com/)
 - **Time Management**: [HubStaff](https://hubstaff.com/)
 - **Communication & LMS**: [Teams](https://www.microsoft.com/en-us/microsoft-teams/log-in)
 - **Code Collaboration**: [Github](https://github.com/)
