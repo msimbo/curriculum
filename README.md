@@ -11,7 +11,7 @@
 - **Code Collaboration**: [Github](https://github.com/)
 - **Languages**: Javascript, HTML, CSS
 - **Frameworks**: React, Prisma 2, Nodejs, Gatsby, Wordpress
-- **Database**: MongoDB, Fauna, PostGresSQL
+- **Database**: MongoDB, Fauna, PostGreSQL
 - **Methodology**: Functional Programming, Object-Oriented Programming, System Architecture, Database Modeling, Lean/Agile Iteration
 - **DevOps**: Docker, Docker Compose, Vercel, Serverless, Heroku
 ***
