@@ -12,8 +12,8 @@
 - **Languages**: Javascript, HTML, CSS
 - **Frameworks**: React, Prisma 2, Nodejs, Gatsby, Wordpress
 - **Database**: MongoDB, Fauna, PostGreSQL
-- **Methodology**: Functional Programming, Object-Oriented Programming, System Architecture, Database Modeling, Lean/Agile Iteration
-- **DevOps**: Docker, Docker Compose, Vercel, Serverless, Heroku
+- **Methodology**: Functional Programming, Object-Oriented Programming, System Architecture, API Design and Consumption, Database Modeling, Lean/Agile Iteration
+- **DevOps**: Docker, Docker Compose, Vercel, Heroku
 ***
 |Phase 1   |Phase 2   |Phase 3   | Phase 4  |
 |---|---|---|---|
