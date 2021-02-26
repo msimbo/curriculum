@@ -9,6 +9,7 @@
 - **Time Management**: [HubStaff](https://hubstaff.com/)
 - **Communication & LMS**: [Teams](https://www.microsoft.com/en-us/microsoft-teams/log-in)
 - **Code Collaboration**: [Github](https://github.com/)
+- **User Interface and eXperience Design**: [Whimsical](https://whimsical.com/) | [Balsamiq](https://balsamiq.com/) 
 - **Languages**: Javascript, HTML, CSS
 - **Frameworks**: React, Prisma 2, Nodejs, Gatsby, Wordpress
 - **Database**: MongoDB, Fauna, PostGreSQL
