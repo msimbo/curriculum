@@ -1,6 +1,20 @@
-<h1 align="center"><img src="https://i.imgur.com/R5S3FM1.gif" alt="MSIMBO" width="100px" /></h1>
+<h1 align="center"><img src="https://avatars.githubusercontent.com/u/73393293?s=200&v=4" alt="MSIMBO" width="100px" /></h1>
 <h2 align="center">MSIMBO Curriculum</h2>
 
+## Your Toolkit
+
+- **IDE**: [WebStorm](https://www.jetbrains.com/webstorm/)
+- **Text Editor**: [VSCode](https://code.visualstudio.com/) or [Sublime](sublimetext.com/)
+- **Team Collaboration**: [JIRA](https://www.atlassian.com/software/jira)
+- **Time Management**: [HubStaff](https://hubstaff.com/)
+- **Communication & LMS**: [Teams](https://www.microsoft.com/en-us/microsoft-teams/log-in)
+- **Code Collaboration**: [Github](https://github.com/)
+- **Languages**: Javascript, HTML, CSS
+- **Frameworks**: React, Prisma 2, Nodejs, Gatsby, Wordpress
+- **Database**: MongoDB, Fauna, PostGresSQL
+- **Methodology**: Functional Programming, Object-Oriented Programming, System Architecture, Database Modeling, Lean/Agile Iteration
+- **DevOps**: Docker, Docker Compose, Vercel, Serverless, Heroku
+***
 |Phase 1   |Phase 2   |Phase 3   | Phase 4  |
 |---|---|---|---|
 |  [Week 1](#week-1-the-bare-basics) |[Week 8](#week-8-computer-science-i)   |[Week 11](#week-11-react-i)   |[Week 16+](#week-16)   |
